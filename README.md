@@ -1,12 +1,12 @@
-<h1 align="center">Hey 👋 I am Pedro</h1>
+<h1 align="center">Hola 👋 Soy Pedro-31071</h1>
 
 ###
 
-<p align="center">My name is Pedro Julio and I'm a Web Developer from Cuba</p>
+<p align="center">Mi nombres Pedro Julio, Soy a Desarrollador de Cuba</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Acerca de mi</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My Stack</h2>
 
 ###
 
