@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Desarrollador web full-stack con habilidades en Angular y Node.js. 🌟<br><br>✨ Soy capaz de crear aplicaciones web modernas y responsivas utilizando Angular además de tener experiencia en integraciones con IA. 💻<br><br>🔧 Desarrollo soluciones robustas y escalables para proyectos complejos. 🔗<br><br>💡 Siempre buscando formas de optimizar y mejorar. ⚡<br><br>🌐 Construyo interfaces de usuario intuitivas buscando experiencias de usuario excepcionales y rápidas. 👨‍💻<br><br>🛠️ Se trabajar con bases de datos y seguridad de datos de forma robusta. 🔒<br><br>🤝 E colaborado en equipos de desarrollo y con clientes tanto en empresas como freelance 👫<br><br>🎯 Entrenado en la universidad para resolver problemas complejos empleando un menor costo 📈</p>
+<p align="left">🚀 Desarrollador web full-stack con habilidades en Angular y Node.js. 🌟<br><br>✨ Soy capaz de crear aplicaciones web modernas y responsivas utilizando Angular además de tener experiencia en integraciones con IA. 💻<br><br>🔧 Desarrollo soluciones robustas y escalables para proyectos complejos. 🔗<br><br>💡 Siempre buscando formas de optimizar y mejorar. ⚡<br><br>🌐 Construyo interfaces de usuario intuitivas buscando experiencias de usuario excepcionales y rápidas. 👨‍💻<br><br>🛠️ Se trabajar con bases de datos y seguridad de datos de forma robusta. 🔒<br><br>🤝He colaborado en equipos de desarrollo y con clientes tanto en empresas como freelance 👫<br><br>🎯 Entrenado en la universidad para resolver problemas complejos empleando un menor costo 📈</p>
 
 ###
 
