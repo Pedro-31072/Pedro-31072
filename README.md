@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋 Soy Pedro-31072</h1>
+<h1 align="center">Hola a todos</h1>
 
 ###
 
-<p align="center">Mi nombres Pedro Julio, Soy a Desarrollador de Cuba</p>
+<p align="center">Hola, soy el Lic. Ciencias de la Computación Pedro Julio Soto o conocido en Github como Pedro-31072</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Desarrollador web full-stack con habilidades en Angular, Node.js y Spring Boot. 🌟<br><br>✨ Crea aplicaciones web modernas y responsivas utilizando frameworks populares. 💻<br><br>🔧 Desarrolla soluciones robustas y escalables para proyectos complejos. 🔗<br><br>💡 Innovador en tecnología, siempre buscando formas de optimizar y mejorar. ⚡<br><br>🌐 Construye interfaces de usuario intuitivas y experiencias de usuario excepcionales. 👨‍💻<br><br>🛠️ Trabaja con bases de datos eficientes y seguridad de datos robusta. 🔒<br><br>📊 Analiza y optimiza rendimiento para aplicaciones de alto tráfico. 🏎️<br><br>🤝 Colaborador efectivo en equipos de desarrollo y con clientes. 👫<br><br>🎯 Enfocado en resolver problemas complejos y alcanzar objetivos de proyecto. 📈</p>
+<p align="left">🚀 Desarrollador web full-stack con habilidades en Angular y Node.js. 🌟<br><br>✨ Soy capaz de crear aplicaciones web modernas y responsivas utilizando Angular además de tener experiencia en integraciones con IA. 💻<br><br>🔧 Desarrollo soluciones robustas y escalables para proyectos complejos. 🔗<br><br>💡 Siempre buscando formas de optimizar y mejorar. ⚡<br><br>🌐 Construyo interfaces de usuario intuitivas buscando experiencias de usuario excepcionales y rápidas. 👨‍💻<br><br>🛠️ Se trabajar con bases de datos y seguridad de datos de forma robusta. 🔒<br><br>🤝 E colaborado en equipos de desarrollo y con clientes tanto en empresas como freelance 👫<br><br>🎯 Entrenado en la universidad para resolver problemas complejos empleando un menor costo 📈</p>
 
 ###
 
