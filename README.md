@@ -44,9 +44,6 @@ Desarrollo e implementación de la plataforma web integral **"De-NodulosPulmon-R
 - **Base de datos:** Diseño del modelo relacional e implementación de PostgreSQL con Prisma ORM, incluyendo más de 10 entidades, relaciones complejas y gestión de migraciones.
 - **Integración de inteligencia artificial:** Desarrollo de servicios para integrar modelos de detección YOLOv5 y clasificación Random Forest, mediante APIs en Python (Flask). Implementación del procesamiento de imágenes y gestión de resultados para la identificación y localización de nódulos en radiografías.
 - **Frontend:** Desarrollo de una aplicación SPA con Angular 19 y Taiga UI. Implementación de componentes funcionales y gestión reactiva del estado mediante RxJS y BehaviorSubject.
-- **Seguridad y experiencia de usuario:** Implementación de interceptores HTTP para autenticación y gestión global de errores, Guards de navegación y mecanismos de protección frente a la pérdida de datos en formularios.
-- **Despliegue e infraestructura:** Configuración y despliegue en servidor Linux (Debian), utilizando Apache como proxy inverso, PM2 para la gestión de procesos Node.js y WSGI para el servicio de clasificación en Python.
-- **Pruebas y validación:** Ejecución de pruebas funcionales de caja negra para validar los flujos principales, el procesamiento de radiografías y los mecanismos de autenticación y autorización.
 
 ---
 
