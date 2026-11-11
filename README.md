@@ -3,9 +3,9 @@
 <p align="center">
   <b>Desarrollador Full-Stack | Especialista en Angular & NestJS</b><br>
   📍 Cienfuegos, Cuba <br>
-  📧 <a href="mailto:tu-correo@email.com">tu-correo@email.com</a> | 
-  💼 <a href="https://linkedin.com/in/tu-perfil">LinkedIn</a> | 
-  💻 <a href="https://github.com/tu-usuario">GitHub</a>
+  📧 <a href="mailto:pedrojuliosototori1@email.com">tu-correo@email.com</a> | 
+  💼 <a href="https://www.linkedin.com/in/pedro-julio-soto-tori-5bb576213">LinkedIn</a> | 
+  💻 <a href="https://github.com/Pedro-31072">GitHub</a>
 </p>
 
 ---
