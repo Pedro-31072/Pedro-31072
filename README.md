@@ -37,12 +37,16 @@ Desarrollo de funcionalidades para aplicaciones Angular utilizando TypeScript, R
 *2024 – Julio 2025*
 
 Desarrollo e implementación de la plataforma web integral **"De-NodulosPulmon-Rx"** para el estudio, detección y clasificación de nódulos pulmonares.
+### Desarrollo Full Stack — Proyecto de software médico
 
-- **Arquitectura y Backend:** Diseñé e implementé el backend desde cero utilizando **NestJS** y **TypeScript**, estructurando el código en módulos independientes para garantizar la escalabilidad y el mantenimiento.
-- **Gestión de Datos:** Modelé y gestioné la base de datos relacional con **PostgreSQL** y el ORM **Prisma**, implementando validaciones robustas y relaciones complejas (pacientes, usuarios, radiografías, hospitales).
-- **Integración de IA:** Desarrollé una capa de servicios para comunicar el backend con una API de detección (basada en YOLOv5) y una API de clasificación (basada en Random Forest en Python/Flask).
-- **Frontend Empresarial:** Construí la interfaz de usuario con **Angular 19**, implementando un sistema de roles (RBAC), rutas protegidas con Guards, interceptores HTTP para JWT, y una UI moderna utilizando la librería **Taiga UI**.
-- **Despliegue (DevOps):** Documenté y ejecuté el despliegue del sistema en un servidor Debian Linux, configurando Apache como proxy inverso, WSGI para Python, y PM2 para la gestión de procesos de Node.js.
+- **Backend y arquitectura:** Diseño e implementación de una API REST con NestJS y TypeScript, utilizando arquitectura modular, separación de responsabilidades mediante controladores y servicios, y DTOs para la validación y tipado de datos.
+- **Autenticación y autorización:** Implementación de autenticación JWT con renovación de sesión y control de acceso basado en roles (RBAC), utilizando Guards y decoradores personalizados.
+- **Base de datos:** Diseño del modelo relacional e implementación de PostgreSQL con Prisma ORM, incluyendo más de 10 entidades, relaciones complejas y gestión de migraciones.
+- **Integración de inteligencia artificial:** Desarrollo de servicios para integrar modelos de detección YOLOv5 y clasificación Random Forest, mediante APIs en Python (Flask). Implementación del procesamiento de imágenes y gestión de resultados para la identificación y localización de nódulos en radiografías.
+- **Frontend:** Desarrollo de una aplicación SPA con Angular 19 y Taiga UI. Implementación de componentes funcionales y gestión reactiva del estado mediante RxJS y BehaviorSubject.
+- **Seguridad y experiencia de usuario:** Implementación de interceptores HTTP para autenticación y gestión global de errores, Guards de navegación y mecanismos de protección frente a la pérdida de datos en formularios.
+- **Despliegue e infraestructura:** Configuración y despliegue en servidor Linux (Debian), utilizando Apache como proxy inverso, PM2 para la gestión de procesos Node.js y WSGI para el servicio de clasificación en Python.
+- **Pruebas y validación:** Ejecución de pruebas funcionales de caja negra para validar los flujos principales, el procesamiento de radiografías y los mecanismos de autenticación y autorización.
 
 ---
 
