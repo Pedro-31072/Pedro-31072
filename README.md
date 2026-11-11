@@ -68,6 +68,4 @@ Desarrollo e implementación de la plataforma web integral **"De-NodulosPulmon-R
 *Universidad Central "Marta Abreu" de Las Villas (UCLV)*
 
 > **Tesis:** *Incorporación de nuevos módulos y mejoras a la plataforma web integral para el estudio de nódulos pulmonares.*
-> Destacada por su rigor académico y su contribución al programa Territorial de CTI Salud Humana 2024.
-
 ---
