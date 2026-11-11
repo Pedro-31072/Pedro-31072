@@ -10,13 +10,13 @@
 
 ---
 
-## 🚀 Perfil Profesional
+## 🚀 Resumen
 
 Ingeniero de Software y desarrollador Full-Stack con sólida experiencia en la creación de aplicaciones web escalables y plataformas empresariales. Especializado en el ecosistema **Angular** (v16 y v19) y **NestJS**, con un fuerte enfoque en arquitecturas modulares, sistemas de diseño y programación reactiva (RxJS). 
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Experiencia
 
 ### **Angular Developer** | Sorba
 *Agosto de 2025 – Actualidad*
@@ -50,7 +50,7 @@ Desarrollo e implementación de la plataforma web integral **"De-NodulosPulmon-R
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Habilidades
 
 - **Lenguajes:** TypeScript, JavaScript, Python, HTML5, CSS3, SCSS, SQL.
 - **Frontend:** Angular (16, 19), RxJS, Taiga UI, Angular Material, PrimeNG, Formly, Transloco, Chart.js/D3, Monaco Editor.
