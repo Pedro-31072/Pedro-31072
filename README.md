@@ -14,8 +14,6 @@
 
 Ingeniero de Software y desarrollador Full-Stack con sólida experiencia en la creación de aplicaciones web escalables y plataformas empresariales. Especializado en el ecosistema **Angular** (v16 y v19) y **NestJS**, con un fuerte enfoque en arquitecturas modulares, sistemas de diseño y programación reactiva (RxJS). 
 
-Cuento con experiencia comprobada en la integración de modelos de Inteligencia Artificial (YOLO, Random Forest) mediante APIs REST, diseño de bases de datos relacionales y despliegue de sistemas en entornos Linux. Apasionado por el código limpio, la automatización de procesos y la creación de soluciones tecnológicas de alto impacto clínico e industrial.
-
 ---
 
 ## 💼 Experiencia Profesional
