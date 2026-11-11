@@ -23,15 +23,17 @@ Cuento con experiencia comprobada en la integración de modelos de Inteligencia 
 ### **Angular Developer** | Sorba
 *Agosto de 2025 – Actualidad*
 
-Desarrollo y mantenimiento de aplicaciones web y librerías compartidas dentro de una plataforma industrial de gestión de dispositivos y aprendizaje automático.
+Desarrollo de funcionalidades para aplicaciones Angular utilizando TypeScript, RxJS y arquitecturas basadas en componentes standalone.
 
-- Desarrollo de funcionalidades para aplicaciones Angular utilizando **TypeScript**, **RxJS** y arquitecturas basadas en componentes standalone.
 - Diseño, desarrollo y mantenimiento de componentes reutilizables y librerías compartidas, con responsabilidad sobre el repositorio del sistema de diseño.
-- Implementación de un sistema de internacionalización (i18n) basado en **Transloco**, incluyendo herramientas CLI para detectar, generar y validar catálogos de traducción en más de 28 repositorios.
-- Desarrollo de paneles con información en tiempo real mediante **WebSockets** y streaming, optimizando suscripciones y actualización de datos.
-- Creación de formularios dinámicos y componentes avanzados utilizando **Angular Material**, **PrimeNG**, **Formly** y **Taiga UI**.
-- Desarrollo de pruebas unitarias y mejoras de calidad mediante **Jest**, **ESLint** y **Prettier**.
-- Mantenimiento y evolución de proyectos paralelos sobre Angular 16 y Angular 19.
+- Implementación de un sistema de internacionalización basado en Transloco, incluyendo herramientas CLI para detectar, generar y validar catálogos de traducción.
+- Integración de la internacionalización en 28 repositorios y participación en la migración de más de 8.000 textos de la aplicación principal.
+- Desarrollo de funcionalidades de selección masiva de registros, filtros avanzados e integración con servicios de datos bajo demanda.
+- Implementación de interfaces para la gestión de archivos, bases de datos MySQL, certificados de dispositivos, versiones de software y reglas de estandarización.
+- Desarrollo de paneles con información en tiempo real mediante WebSockets y streaming, optimizando las suscripciones y la actualización de datos.
+- Creación y mantenimiento de formularios dinámicos y componentes avanzados utilizando Angular Material, PrimeNG y Formly.
+- Desarrollo de pruebas unitarias y mejoras de calidad mediante Jest, ESLint y Prettier.
+- Mantenimiento y evolución de proyectos en paralelo sobre Angular 16 y Angular 19.
 
 ### **Desarrollador Full-Stack (Proyecto de Tesis)** | Universidad Central "Marta Abreu" de Las Villas
 *2024 – Julio 2025*
