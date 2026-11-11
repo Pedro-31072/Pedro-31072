@@ -71,12 +71,3 @@ Desarrollo e implementación de la plataforma web integral **"De-NodulosPulmon-R
 > Destacada por su rigor académico y su contribución al programa Territorial de CTI Salud Humana 2024.
 
 ---
-
-## 💡 Highlights / Logros Clave
-
-- 🏆 **Impacto Real:** Contribución directa a un proyecto de salud pública mediante la creación de herramientas de diagnóstico asistido por computadora (CAD).
-- ⚙️ **Automatización:** Creación de herramientas CLI que optimizaron la gestión de internacionalización en más de 28 repositorios en Sorba.
-- 🧠 **Versatilidad:** Capacidad demostrada para conectar el mundo del Frontend (Angular), el Backend (NestJS/Python) y la Infraestructura (Linux/Apache/PM2).
-
----
-*Última actualización: Noviembre 2026*
