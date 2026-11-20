@@ -38,52 +38,47 @@ I believe good software engineering is not just about making things work — it'
 
 ---
 
-## `02` — What I Do
+## What I Do
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Frontend Engineering</h3>
+      <h3>🎨 Frontend Engineering</h3>
       <ul>
-        <li>Angular application architecture</li>
-        <li>Reusable components and shared libraries</li>
-        <li>Reactive programming with RxJS</li>
-        <li>Design systems and UI engineering</li>
-        <li>Internationalization and localization</li>
-        <li>Advanced forms and data-driven interfaces</li>
+        <li>Building scalable applications with Angular and TypeScript.</li>
+        <li>Developing reusable components and shared UI libraries.</li>
+        <li>Managing complex state and reactive data flows with RxJS.</li>
+        <li>Creating dynamic forms, advanced filters and data-driven interfaces.</li>
+        <li>Building and maintaining design systems.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Backend & Integration</h3>
+      <h3>⚙️ Backend Development</h3>
       <ul>
-        <li>NestJS and Node.js applications</li>
-        <li>REST API design and development</li>
-        <li>Relational database modeling</li>
-        <li>Authentication and authorization</li>
-        <li>WebSockets and real-time communication</li>
-        <li>Machine learning service integration</li>
+        <li>Building REST APIs with NestJS and Node.js.</li>
+        <li>Designing modular architectures and maintainable services.</li>
+        <li>Working with PostgreSQL, MySQL and Prisma ORM.</li>
+        <li>Implementing authentication, authorization and RBAC.</li>
+        <li>Integrating real-time features using WebSockets.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧪 Software Quality</h3>
+      <h3>🧪 Quality & Testing</h3>
       <ul>
-        <li>Unit testing with Jest</li>
-        <li>Component and service testing</li>
-        <li>ESLint and Prettier</li>
-        <li>Maintainable testing strategies</li>
-        <li>Code quality and consistency</li>
+        <li>Writing unit tests with Jest and Angular testing tools.</li>
+        <li>Maintaining code quality with ESLint and Prettier.</li>
+        <li>Building testable, modular and maintainable code.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔧 Engineering Practices</h3>
+      <h3>🛠️ Engineering & Tooling</h3>
       <ul>
-        <li>Git and collaborative workflows</li>
-        <li>GitLab CI/CD</li>
-        <li>Docker-based development environments</li>
-        <li>Modular architecture</li>
-        <li>Developer tooling and automation</li>
+        <li>Working with Git, GitLab CI/CD and monorepo environments.</li>
+        <li>Developing CLI tools and automation workflows.</li>
+        <li>Managing internationalization systems and translation catalogs.</li>
+        <li>Integrating external services and data-processing solutions.</li>
       </ul>
     </td>
   </tr>
